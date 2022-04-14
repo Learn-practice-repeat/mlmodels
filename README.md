@@ -1,2 +1,2 @@
 # mlmodels
-repository to store code for my models
+repository for my ml models
